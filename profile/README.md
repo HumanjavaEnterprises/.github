@@ -9,4 +9,4 @@ Humanjava Enterprises Inc. (est. 2004, British Columbia, Canada) does UX researc
 - **Open tools:** [LSDub](https://github.com/HumanjavaEnterprises/comfyui-lsdub) for AI music-video lip-sync, [NostrKey](https://github.com/HumanjavaEnterprises/nostrkey.browser.plugin.src) and [LoginWithNostr](https://github.com/HumanjavaEnterprises/loginwithnostr) for keys you own, and a [Nostr TypeScript library](https://www.npmjs.com/~vveerrgg).
 - **Writing:** [humanjava.com/articles](https://humanjava.com/articles/)
 
-[humanjava.com](https://humanjava.com) · [Hugging Face](https://huggingface.co/HumanjavaEnterprises) · [Mailing list](https://humanjava.com/mailing-list/) · Founder: [Vergel Evans](https://vveerrgg.online)
+[humanjava.com](https://humanjava.com) · [LinkedIn](https://www.linkedin.com/company/1622884/) · [Hugging Face](https://huggingface.co/HumanjavaEnterprises) · [Mailing list](https://humanjava.com/mailing-list/) · Founder: [Vergel Evans](https://vveerrgg.online)
